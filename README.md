@@ -50,7 +50,7 @@ An interactive, multi-dimensional retail business intelligence report engineered
 ![Power BI Sales Store Analytics Dashboard](img/WhatsApp%20Image%202026-10-05%20at%2010.03.29%20PM.jpeg)
 
 #### 🧩 Relational Data Model (Kimball Star Schema)
-![Power BI Star Schema Data Model](img/WhatsApp%20Image%202026-10-05%20at%2010.03.30%20PM.jpeg)
+![Power BI Star Schema Data Model](img/WhatsApp Image 2026-10-05 at 10.03.26 PM.jpeg)
 
 #### 🎯 Executive Target Gauge Visual
 <p align="center">
